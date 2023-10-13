@@ -1,17 +1,17 @@
 # Frontend Mentor - Invoice app solution
 
-This is a solution to the [Invoice app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Invoice app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
-  - [Overview](#overview)
-    - [The challenge](#the-challenge)
-    - [Screenshot](#screenshot)
-    - [Links](#links)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-    - [Useful resources](#useful-resources)
-  - [Author](#author)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
 ## Overview
 
@@ -49,8 +49,8 @@ Users should be able to:
 - [MongoDB](https://www.mongodb.com/) - NoSQL database
 - [Mongoose](https://mongoosejs.com/) - ODM for mongodb and Nodejs
 - [Formik](https://formik.org/) - Form library for React
-- [React Datepicker](https://reactdatepicker.com/) - Datepicker component for react
-- [Hookstate](https://hookstate.js.org/) - State management library for react
+- [React Datepicker](https://reactdatepicker.com/) - Datepicker component for React
+- [Hookstate](https://hookstate.js.org/) - State management library for React
 
 ### Useful resources
 
