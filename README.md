@@ -57,9 +57,3 @@ Users should be able to:
 - [Deploy NestJS typescript app to Heroku (Solved: 503 Error)](https://dev.to/rosyshrestha/deploy-nestjs-typescript-app-to-heroku-27e) - Helped me understand the 503 error I was getting on heroku and solve it.
 - [Refreshing Server-Side Props](https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/) - Useful tip on how to refresh server-side props after updating data on the server.
 - [Persist Formik State on Refresh with React Hooks](https://www.lightpohl.me/blog/persist-formik-state-on-refresh-with-react-hooks) - Helped me persist the app's form state on refresh.
-
-## Author
-
-- Website - [Funmilola O.](https://funmilolajire.netlify.app/)
-- Frontend Mentor - [@Erinay0](https://www.frontendmentor.io/profile/Erinay0)
-- Twitter - [@funmilolajire](https://www.twitter.com/funmilolajire)  
