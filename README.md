@@ -48,7 +48,7 @@ Users should be able to:
 - [NestJS](https://nestjs.com/) - Nodejs framework
 - [MongoDB](https://www.mongodb.com/) - NoSQL database
 - [Mongoose](https://mongoosejs.com/) - ODM for mongodb and nodejs
-- [Formik](https://formik.org/) - Form library for react
+- [Formik](https://formik.org/) - Form library for React
 - [React Datepicker](https://reactdatepicker.com/) - Datepicker component for react
 - [Hookstate](https://hookstate.js.org/) - State management library for react
 
